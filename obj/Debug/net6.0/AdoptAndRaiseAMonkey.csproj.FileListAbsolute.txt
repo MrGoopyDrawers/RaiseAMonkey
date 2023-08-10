@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\bin\Debug\net6.0\AdoptAndRaiseAMonkey.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\bin\Debug\net6.0\AdoptAndRaiseAMonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\AdoptAndRaiseAMonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\refint\AdoptAndRaiseAMonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\AdoptAndRaiseAMonkey\obj\Debug\net6.0\ref\AdoptAndRaiseAMonkey.dll
